@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unirxTest", "Assembly-CSharp-firstpass.csproj", "{47847580-FD8F-CEC3-A9A3-1C186206B755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unirxTest", "Assembly-CSharp.csproj", "{EA362E31-9141-EC02-F001-993404005150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47847580-FD8F-CEC3-A9A3-1C186206B755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47847580-FD8F-CEC3-A9A3-1C186206B755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47847580-FD8F-CEC3-A9A3-1C186206B755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47847580-FD8F-CEC3-A9A3-1C186206B755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA362E31-9141-EC02-F001-993404005150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA362E31-9141-EC02-F001-993404005150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA362E31-9141-EC02-F001-993404005150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA362E31-9141-EC02-F001-993404005150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
